@@ -2,7 +2,7 @@
 ---
 Olá eu sou Gantt-sucessor, um programador iniciando na área ainda 👋
 
-![Gantt GitHub stats](https://github-readme-stats.vercel.app/api?username=Gantt-sucessor&show_icons=true&theme=nightowl)
+![Gantt GitHub stats](https://github-readme-stats.vercel.app/api?username=Gantt-sucessor&show_icons=true&theme=date_night)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gantt-sucessor)](https://github.com/anuraghazra/github-readme-stats)
 
