@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gantt-sucessor/Gantt-sucessor/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
