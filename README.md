@@ -1,4 +1,5 @@
-  ## Olá eu sou Gantt-sucessor, um programador iniciando na área ainda 👋
+  ## Olá eu sou Gantt-sucessor
+  👋
 ---
 
 ![Gantt GitHub stats](https://github-readme-stats.vercel.app/api?username=Gantt-sucessor&show_icons=true&theme=date_night
