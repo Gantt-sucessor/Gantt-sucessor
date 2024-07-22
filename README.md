@@ -1,5 +1,5 @@
 
-<img width=100% src="https://github.com/user-attachments/assets/d25ad8e6-4610-49a4-9e69-a9a524d08337"/>
+<img width=100% src="https://github.com/user-attachments/assets/9e7880eb-7c43-46e9-b521-d60ca19e1224"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC096F&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gabriel;I'm+20+years+old;I+am+from+Campo-Grande,+MS;I+study+analysis+and+systems+development+at+Senac;And+I'm+in+the+4th+semester+at+TADS+college;Be+Welcome!+:%50)](https://git.io/typing-svg)
 
