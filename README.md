@@ -1,7 +1,7 @@
 
 <img width=100% src="https://github.com/user-attachments/assets/dcaccbfd-e8c9-48a6-a417-80d890e9c3e5"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC096F&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gabriel;I'm+20+years+old;I+am+from+Campo-Grande,+MS;I+study+analysis+and+systems+development+at+Senac;And+I'm+in+the+4th+semester+at+TADS+college;Be+Welcome!+:%50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC096F&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gabriel;I'm+20+years+old;I+am+from+Campo-Grande,+MS;I+study+analysis+and+systems+development+at+Senac;And+I'm+in+the+4th+semester+at+TADS+college;Be+Welcome!+:%50)](https://git.io/typing-svg)
 
 
 ---
