@@ -12,6 +12,11 @@
   <img src="https://streak-stats.demolab.com?user=Gantt-sucessor&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e00874e7-77d5-4e6f-83c3-874ff2a07665" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/3c162940-b3e2-493d-9b34-11db21651c07" alt="animated" />
+</p>
+
 ### I'm Studying in this moment:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
