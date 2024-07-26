@@ -13,8 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e00874e7-77d5-4e6f-83c3-874ff2a07665" alt="animated" />
-  <img src="https://github.com/user-attachments/assets/3c162940-b3e2-493d-9b34-11db21651c07" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/7139a457-6cbd-43ac-9ee0-b2d895e05f5f" alt="animated" />
 </p>
 
 ### I'm Studying in this moment:
