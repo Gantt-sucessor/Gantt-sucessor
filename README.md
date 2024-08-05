@@ -16,6 +16,10 @@
   <img src="https://github.com/user-attachments/assets/7139a457-6cbd-43ac-9ee0-b2d895e05f5f" alt="animated" />
 </p>
 
+![Snake_Animation](https://github.com/Gantt-sucessor/Gantt-sucessor/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gantt-sucessor&repo=Gantt-sucessor%theme=react)](https://github.com/Gantt-sucessor/Gantt-sucessor)
+
 
 ### I'm Studying in this moment:
 
