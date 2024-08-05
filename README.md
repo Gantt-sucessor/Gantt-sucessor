@@ -16,6 +16,7 @@
   <img src="https://github.com/user-attachments/assets/7139a457-6cbd-43ac-9ee0-b2d895e05f5f" alt="animated" />
 </p>
 
+
 ### I'm Studying in this moment:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
