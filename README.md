@@ -1,33 +1,59 @@
+<img width="100%" src="https://github.com/user-attachments/assets/dcaccbfd-e8c9-48a6-a417-80d890e9c3e5"/>
 
-<img width=100% src="https://github.com/user-attachments/assets/dcaccbfd-e8c9-48a6-a417-80d890e9c3e5"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fd6be&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gabriel;I'm+21+years+old;I+am+from+Brazil;I+study+analysis+and+systems+development+at+Senac;And+I'm+in+the+5th+semester+at+TADS+college;Be+Welcome!+:%50)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fd6be&size=35&center=true&vCenter=true&width=1000&lines=Gabriel+Arruda;Backend+Developer+%E2%9A%A1;Future+Fullstack+Engineer;Java+%7C+Spring+Boot+%7C+React+Native;Always+evolving+🚀)](https://git.io/typing-svg)
 
 ---
+
+## 👨‍💻 About Me
+
+- 🎯 Backend Developer focused on growth
+- 📚 Studying Analysis and Systems Development (TADS)
+- ⚡ Currently evolving to **Full Stack**
+- 🧠 Strong interest in **AI** and **Cybersecurity**
+- 🇧🇷 Based in Brazil
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gantt-sucessor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gantt-sucessor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Gantt-sucessor&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gantt-sucessor&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gantt-sucessor&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Gantt-sucessor&theme=tokyonight" height="150"/>
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7139a457-6cbd-43ac-9ee0-b2d895e05f5f" alt="animated" />
-</p>
+---
 
+## 🚀 Tech Stack
 
-
-
-### I'm Studying in this moment:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Main Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-###
+### 📱 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### 🧠 Other Knowledge
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+---
 
+## 🔥 Current Focus
 
+- Building real-world applications with **Spring Boot**
+- Creating mobile apps with **React Native**
+- Improving architecture and clean code practices
+- Moving towards **Full Stack + AI integration**
+
+---
+
+## ⚡ Personal Mindset
+
+> “Evolve every day. Compete only with your past version.”
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7139a457-6cbd-43ac-9ee0-b2d895e05f5f" />
+</p>
