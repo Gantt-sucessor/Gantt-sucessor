@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/dcaccbfd-e8c9-48a6-a417-80d890e9c3e5"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fd6be&size=35&center=true&vCenter=true&width=1000&lines=Gabriel+Arruda;Backend+Developer+%E2%9A%A1;Future+Fullstack+Engineer;Java+%7C+Spring+Boot+%7C+React+Native;Always+evolving+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fd6be&size=35&center=true&vCenter=true&width=1000&lines=Gabriel+Arruda;Backend+Developer+%E2%9A%A1;Future+Fullstack+Engineer;Java+%7C+Spring+Boot+%7C+React+Native;Always+evolving+)](https://git.io/typing-svg)
 
 ---
 
@@ -25,19 +25,31 @@
 
 ## My Stacks
 
-### 💻 Main Stack
+### Main Stack - Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 📱 Frontend & Mobile
+---
+
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🧠 Other Knowledge
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ---
 
+### Other Knowledge
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7139a457-6cbd-43ac-9ee0-b2d895e05f5f" />
