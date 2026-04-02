@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/dcaccbfd-e8c9-48a6-a417-80d890e9c3e5"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fd6be&size=35&center=true&vCenter=true&width=1000&lines=Gabriel+Arruda;Backend+Developer+%E2%9A%A1;Future+Fullstack+Engineer;Java+%7C+Spring+Boot+%7C;Always+evolving+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4fd6be&size=35&center=true&vCenter=true&width=1000&lines=Hello+I+am+Gabriel+Arruda;I+am+a+Backend+Developer;Future+Fullstack+Engineer;Java+%7C+Spring+Boot+%7C;Always+evolving+)](https://git.io/typing-svg)
 
 ---
 
